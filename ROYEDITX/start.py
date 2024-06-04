@@ -17,15 +17,15 @@ async def start(bot: Client, msg: Message):
 ● ɪ ᴀᴍ ‌ ‌{me2} ᴀɴᴅ ɪ ʜᴀᴠᴇ ᴛᴇʟᴇᴛʜᴏɴ ᴀɴᴅ ᴘʏʀᴏɢʀᴀᴍ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛɪɴɢ ғᴇᴀᴛᴜʀᴇs.
 ● ᴛʜɪs ɪs ᴍᴏsᴛ ᴘᴏᴡᴇʀғᴜʟʟ ᴀɴᴅ ᴛʀᴜsᴛᴇᴅ sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ.
 
-❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ [ʀᴏʏ ᴇᴅɪᴛx](tg://user?id={OWNER_ID})""",
+❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ [ʀohan Roy](tg://user?id={OWNER_ID})""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(text="💌 ɢᴇɴᴇʀᴀᴛᴇ sᴛʀɪɴɢ 💌", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/THE_FRIENDZ"),
-                    InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/ROY_EDITX")
+                    InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/ilovemovie123"),
+                    InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/ilovemovie143")
                 ]
             ]
         ),
